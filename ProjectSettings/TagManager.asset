@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hand
+  - knife
+  - 'UI FINDE '
+  - UIFINDE
+  - Tree
+  - Obj
+  - componentsUnBreaking
+  - Ground
+  - Base
+  - UpgradeMenu
+  - Rock
+  - CREATEBASEUIBOTTON
+  - DownPosition
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Obg
+  - Water
+  - UI
+  - Ground
+  - Cheker
+  - water
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: water
+    uniqueID: 2298957803
+    locked: 0

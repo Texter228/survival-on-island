@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 38bfa81e0f4522f4394122bd49aed772
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8319685692596281519
+    second: upgrade menu_0
+  - first:
+      213: -6762133732968934700
+    second: upgrade menu_1
+  - first:
+      213: -737636011923339539
+    second: upgrade menu_2
+  - first:
+      213: -5732011347222722471
+    second: upgrade menu_3
+  - first:
+      213: -4042968802213892387
+    second: upgrade menu_4
+  - first:
+      213: -3434169053928988794
+    second: upgrade menu_5
+  - first:
+      213: 7874887793734606265
+    second: upgrade menu_6
+  - first:
+      213: -3127223298836206209
+    second: upgrade menu_7
+  - first:
+      213: 9026399905583736182
+    second: upgrade menu_8
+  - first:
+      213: -2023168488822315521
+    second: upgrade menu_9
+  - first:
+      213: 3564423754316442219
+    second: upgrade menu_10
+  - first:
+      213: -4545286180656818598
+    second: upgrade menu_11
+  - first:
+      213: -8675946438771570370
+    second: upgrade menu_12
+  - first:
+      213: 437850012146928627
+    second: upgrade menu_13
+  - first:
+      213: 110286649750625581
+    second: upgrade menu_14
+  - first:
+      213: -9199368975763523604
+    second: upgrade menu_15
+  - first:
+      213: 3137956541216408550
+    second: upgrade menu_16
+  - first:
+      213: -2398911717990446777
+    second: upgrade menu_17
+  - first:
+      213: -1186598792569490223
+    second: upgrade menu_18
+  - first:
+      213: -6688197221331037783
+    second: upgrade menu_19
+  - first:
+      213: -6378048284292956149
+    second: upgrade menu_20
+  - first:
+      213: 4024932952758373295
+    second: upgrade menu_21
+  - first:
+      213: -7038136228682789923
+    second: upgrade menu_22
+  - first:
+      213: -5870517539739665112
+    second: upgrade menu_23
+  - first:
+      213: -6107281469614314856
+    second: upgrade menu_24
+  - first:
+      213: -4610926322693463053
+    second: upgrade menu_25
+  - first:
+      213: 2887307021353180708
+    second: upgrade menu_26
+  - first:
+      213: 5404681021181243640
+    second: upgrade menu_27
+  - first:
+      213: 2482270102653923087
+    second: upgrade menu_28
+  - first:
+      213: -2032097088655747141
+    second: upgrade menu_29
+  - first:
+      213: -5982088697836826225
+    second: upgrade menu_30
+  - first:
+      213: 6144388778940042259
+    second: upgrade menu_31
+  - first:
+      213: -2837057554630350651
+    second: upgrade menu_32
+  - first:
+      213: -3461884984569927494
+    second: upgrade menu_33
+  - first:
+      213: 4713197496138152404
+    second: upgrade menu_34
+  - first:
+      213: -5423970607722781684
+    second: upgrade menu_35
+  - first:
+      213: -2856411056497312848
+    second: upgrade menu_36
+  - first:
+      213: -4734820629687313644
+    second: upgrade menu_37
+  - first:
+      213: 5719813909931705398
+    second: upgrade menu_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: upgrade menu_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 348
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316d846ce583e0349aa5d6ad55842807
+      internalID: 1961582937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upgrade menu_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 303
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dde06a68aba6f047a595e59d2697251
+      internalID: 1511784488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upgrade menu_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 273
+        width: 52
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa302a0dd41a84c428cdc408fe58d5c2
+      internalID: -1180755157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upgrade menu_13
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 302
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274c6c511ea5d1d41b1ebf9c4e739b84
+      internalID: 1759564898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upgrade menu_21
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 283
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1c62dd75ae84040904e08483131151
+      internalID: -1979924876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upgrade menu_33
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 244
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8c3049fa5c0e14f843d65c58e0a9cb
+      internalID: 942484539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upgrade menu_34
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 244
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d10f40b64dd0e9438feb09804fe6e9a
+      internalID: -218728671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upgrade menu_35
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 244
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e2b9ffa87b20c4794f7362c5eb3b25
+      internalID: -901352698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upgrade menu_36
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 244
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc119d6e80f4c440ad8a4aaa5ecfe87
+      internalID: -1288615776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upgrade menu_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 248
+        width: 56
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0486cf1bcaf17f54a9de989254b78d10
+      internalID: -499028922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bbf9e7f15b9a6554ca2f1ce89f4666ce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      upgrade menu_0: 1961582937
+      upgrade menu_1: 1511784488
+      upgrade menu_10: 519580261
+      upgrade menu_11: -297356274
+      upgrade menu_12: 863844115
+      upgrade menu_13: 1759564898
+      upgrade menu_14: 1200695280
+      upgrade menu_15: -1096602609
+      upgrade menu_16: 1419828693
+      upgrade menu_17: 581655696
+      upgrade menu_18: 361932428
+      upgrade menu_19: 254379801
+      upgrade menu_2: -1180755157
+      upgrade menu_20: -1851241437
+      upgrade menu_21: -1979924876
+      upgrade menu_22: -275222774
+      upgrade menu_23: 2053960646
+      upgrade menu_24: 1182014650
+      upgrade menu_25: -445041714
+      upgrade menu_26: 1400065836
+      upgrade menu_27: -1981023373
+      upgrade menu_28: 1523169199
+      upgrade menu_29: 999578619
+      upgrade menu_3: -499028922
+      upgrade menu_30: 2136819533
+      upgrade menu_31: -54598009
+      upgrade menu_32: 653945322
+      upgrade menu_33: 942484539
+      upgrade menu_34: -218728671
+      upgrade menu_35: -901352698
+      upgrade menu_36: -1288615776
+      upgrade menu_37: -1336675707
+      upgrade menu_38: -1404214176
+      upgrade menu_39: 957150469
+      upgrade menu_4: -1311798336
+      upgrade menu_5: 130779436
+      upgrade menu_6: 786518069
+      upgrade menu_7: -246492673
+      upgrade menu_8: 1822963028
+      upgrade menu_9: 1755511887
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

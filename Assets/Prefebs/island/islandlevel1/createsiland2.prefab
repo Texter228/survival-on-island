@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7812586071913428590
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8060739898750613927}
+  - component: {fileID: 8982686048117864616}
+  m_Layer: 0
+  m_Name: createsiland2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8060739898750613927
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7812586071913428590}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8982686048117864616
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7812586071913428590}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fd2ac80c62ceb34b869368b95803719, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  horizontal: 6
+  vertical: 4
+  width: 1
+  createobj: {fileID: 5884804948151707359, guid: 80e50be5a5b97004c9ec76b874f2cff9, type: 3}
+  createobj1: {fileID: 5699252570601828380, guid: 3b22851f2c5101b41a37b1631c148aa3, type: 3}
+  createobj2: {fileID: 3443471825517715585, guid: fc165ad85b30d1647b44d281fadebeae, type: 3}
+  createobj3: {fileID: 691044103207133148, guid: ae9cc112bb215da46bf354454f0a9e81, type: 3}
+  createobj4: {fileID: 2224733883523609080, guid: bfcc5175db1195b4089e9ff140b1db57, type: 3}
+  createobj5: {fileID: 2897027460363750650, guid: ef9af12a571f2e644aa2cc0c8d48db12, type: 3}
+  createobj6: {fileID: 2713737146216062252, guid: 1e848b70d4c646744a4313c95c96e084, type: 3}
+  createobj7: {fileID: 6855501652364114723, guid: 67d2041ccd2a9fc46ba7ba9c480eed82, type: 3}
+  createobj8: {fileID: 1398500730804205990, guid: 9d1447d982292f44f8d577ffc8138e0b, type: 3}
+  createHorizontal: {fileID: 0}
+  objThis: {fileID: 8060739898750613927}
+  offleft: 0
+  offright: 0
+  isCreate: 1
+  delay: 0.25
+  numbertocreate: 010000000200000003000000040000000500000000000000
+  needcreate:
+  - {fileID: 5884804948151707359, guid: 80e50be5a5b97004c9ec76b874f2cff9, type: 3}
+  - {fileID: 5884804948151707359, guid: 80e50be5a5b97004c9ec76b874f2cff9, type: 3}
+  - {fileID: 5884804948151707359, guid: 80e50be5a5b97004c9ec76b874f2cff9, type: 3}
+  - {fileID: 5884804948151707359, guid: 80e50be5a5b97004c9ec76b874f2cff9, type: 3}
+  - {fileID: 2224733883523609080, guid: bfcc5175db1195b4089e9ff140b1db57, type: 3}
+  - {fileID: 5884804948151707359, guid: 80e50be5a5b97004c9ec76b874f2cff9, type: 3}
+  list: []
+  isgoup: 1
+  layer: 0
+  created: 0
+  create1: {fileID: 0}
+  create2: {fileID: 0}
